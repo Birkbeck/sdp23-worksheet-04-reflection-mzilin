@@ -2,6 +2,9 @@ package reflection;
 
 import org.junit.jupiter.api.Test;
 
+/**
+ * Question 3
+ */
 public class Autograder {
 
     static final String CLASS_NAME = ""; // TODO: insert the class name to be tested
