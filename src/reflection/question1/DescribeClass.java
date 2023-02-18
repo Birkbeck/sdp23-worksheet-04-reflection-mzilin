@@ -1,8 +1,6 @@
-package reflection;
+package reflection.question1;
 
-/**
- * Question 1
- */
+
 public class DescribeClass {
 
     public static void main(String[] args) {
